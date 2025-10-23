@@ -95,7 +95,7 @@ Affichage des collections et des œuvres
 ### classification d’articles informatiques :
 - <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/39030b46-9836-44b9-ab73-07574a37ee89" />
 ### gestion des livres et collections :
-- <img width="960" height="1008" alt="image" src="https://github.com/user-attachments/assets/480154ba-be28-4358-b32f-57b8c84b36da" />
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5b8b609e-103d-4a33-ae25-fcd74c04b31d" />
 ## 💡 Concepts Practiced
 
 - Interface console interactive
