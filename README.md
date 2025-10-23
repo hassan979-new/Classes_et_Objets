@@ -18,69 +18,39 @@ Ce document regroupe une série de projets Java illustrant des concepts fondamen
 
 ## 📂 Project Structure
 projets
-- ├── TP2/
-- │   └── src/
-- │       └── Tableau/
-- │           └── Tableau.java
-- ├── Triangle/
-- │   └── src/
-- │       └── triangle/
-- │           └── Triangle.java
-- ├── Matrice/
-- │   └── src/
-- │       └── tableauDeTableaux/
-- │           ├── Matrice.java
-- │           └── TestMatrice.java
-- ├── TableauCarrés/
-- │   └── src/
-- │       └── tableauDesCarrés/
-- │           └── TableauCarrés.java
-- ├── RotationMatrice/
-- │   └── src/
-- │       └── rotationMatrice/
-- │           ├── Rotation90.java
-- │           └── TesterRotation.java
-- ├── laSomme/
-- │   └── src/
-- │       └── laSomme/
-- │           └── Somme.java
-- ├── FenetreGlaissante/
-- │   └── src/
-- │       └── fenetreGlaissante/
-- │           └── FenetreGlaissante.java
 - ├── EtudiantNotes/
 - │   └── src/
-- │       └── com/
-- │           └── example/
-- │               └── tp/
-- │                   ├── Etudiant.java
-- │                   └── Main.java
+- │       ----└── com/
+- │           -------└── example/
+- │               ----------└── tp/
+- │                   ----------├── Etudiant.java
+- │                   ----------└── Main.java
 - ├── FiliereEtudiant/
 - │   └── src/
-- │       └── com/
-- │           └── example/
+- │       ----└── com/
+- │           -------└── example/
 - │               └── tp/
-- │                   ├── Étudiant.java
-- │                   ├── Filiere.java
-- │                   └── Main.java
+- │                   ----------├── Étudiant.java
+- │                   ----------├── Filiere.java
+- │                   ----------└── Main.java
 - ├── ArticleCategorie/
 - │   └── src/
-- │       └── ma/
-- │           └── projet/
-- │               ├── bean/
-- │               │   ├── Article.java
-- │               │   └── Categorie.java
-- │               └── test/
-- │                   └── TestApp.java
+- │       ----└── ma/
+- │           -------└── projet/
+- │               ----------├── bean/
+- │               ----------│   ----├── Article.java
+- │               ----------│   ----└── Categorie.java
+- │               ----------└── test/
+- │                   ---------------└── TestApp.java
 - ├── BibliothequeAuteur/
 - │   └── src/
-- │       └── com/
-- │           └── exemple/
-- │               └── tp/
-- │                   ├── Auteur.java
-- │                   ├── Livre.java
-- │                   ├── Bibliotheque.java
-- │                   └── Main.java
+- │       ----└── com/
+- │           -------└── exemple/
+- │               ----------└── tp/
+- │                   --------------├── Auteur.java
+- │                   --------------├── Livre.java
+- │                   --------------├── Bibliotheque.java
+- │                   --------------└── Main.java
 - └── README.md
 
 
@@ -119,13 +89,13 @@ Affichage des collections et des œuvres
 ## 🖥️ Example Execution
 
 ### Gestion des notes
-
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5546bd97-1f5f-4fed-bdc5-e706287d58ee" />
 ### Gestion des filières et des étudiants :
-
-### lassification d’articles informatiques :
-
-### estion des livres et collections :
-
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a795925f-e575-469e-a82c-517921a0b244" />
+### classification d’articles informatiques :
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/39030b46-9836-44b9-ab73-07574a37ee89" />
+### gestion des livres et collections :
+<img width="960" height="1008" alt="image" src="https://github.com/user-attachments/assets/480154ba-be28-4358-b32f-57b8c84b36da" />
 ## 💡 Concepts Practiced
 
 - Interface console interactive
