@@ -6,25 +6,31 @@ public class Categorie {
 	private final int id;
 	private String libelle;
 	private String code;
-	
-	public Categorie(String libelle,String code) {
+
+	public Categorie(String libelle, String code) {
 		this.id = ++compteur;
 		this.libelle = libelle;
 		this.code = code;
 	}
-	
-	public int getId() {return id;}
-	
-	public String getLibelle() {return libelle;}
-	
-	public String getCode() {return code;}
-	public void setCode(String code) {this.code = code;}
-	
+
+	public int getId() {
+		return id;
+	}
+
+	public String getLibelle() {
+		return libelle;
+	}
+
+	public String getCode() {
+		return code;
+	}
+
+	public void setCode(String code) {
+		this.code = code;
+	}
+
 	@Override
 	public String toString() {
-		return "{id="+id+
-				"libelle="+libelle+
-				"code="+code+
-				"}";
+		return "{id=" + id + "libelle=" + libelle + "code=" + code + "}";
 	}
 }
