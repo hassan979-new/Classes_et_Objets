@@ -89,13 +89,13 @@ Affichage des collections et des œuvres
 ## 🖥️ Example Execution
 
 ### Gestion des notes
-<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5546bd97-1f5f-4fed-bdc5-e706287d58ee" />
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5546bd97-1f5f-4fed-bdc5-e706287d58ee" />
 ### Gestion des filières et des étudiants :
-<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a795925f-e575-469e-a82c-517921a0b244" />
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a795925f-e575-469e-a82c-517921a0b244" />
 ### classification d’articles informatiques :
-<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/39030b46-9836-44b9-ab73-07574a37ee89" />
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/39030b46-9836-44b9-ab73-07574a37ee89" />
 ### gestion des livres et collections :
-<img width="960" height="1008" alt="image" src="https://github.com/user-attachments/assets/480154ba-be28-4358-b32f-57b8c84b36da" />
+- <img width="960" height="1008" alt="image" src="https://github.com/user-attachments/assets/480154ba-be28-4358-b32f-57b8c84b36da" />
 ## 💡 Concepts Practiced
 
 - Interface console interactive
